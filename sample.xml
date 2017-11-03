@@ -1,5 +1,5 @@
 <test>
 	<name>sample4</name>
-	<type>xml</type>
+	<type>json</type>
 	<size>12</size>
 </test>
